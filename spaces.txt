@@ -1,0 +1,21 @@
+# Veggies
+
+kale
+parsnips
+
+# Fruits
+
+apple
+mango
+
+#meats
+
+beef
+pork
+chicken
+
+#dairy
+
+
+cheese
+yogurt
